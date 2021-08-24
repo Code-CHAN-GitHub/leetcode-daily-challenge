@@ -3,15 +3,15 @@ package com.leetcode.daily.y2021.m08;/**
  * @create 2021-08-24-10:08
  */
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 /**
  *@ClassName d24_Q787
- *@Description TODO
+ *@Description cheapest-flights-within-k-stops
  *Author chen
  *Date 2021/8/24 10:08
  *Version 1.0
+ *@See <a href="https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/">cheapest-flights-within-k-stops</a>
  **/
 public class d24_Q787 {
 
