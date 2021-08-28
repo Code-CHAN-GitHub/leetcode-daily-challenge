@@ -7,10 +7,11 @@ import java.util.PriorityQueue;
 
 /**
  *@ClassName d27_Q295
- *@Description TODO
+ *@Description find-median-from-data-stream
  *Author chen
  *Date 2021/8/28 11:22
  *Version 1.0
+ *@See <a href="https://leetcode-cn.com/problems/find-median-from-data-stream/">find-median-from-data-stream</a>
  **/
 public class d27_Q295 {
 
