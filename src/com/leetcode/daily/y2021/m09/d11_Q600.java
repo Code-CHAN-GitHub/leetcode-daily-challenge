@@ -1,7 +1,5 @@
 package com.leetcode.daily.y2021.m09;
 
-import sun.print.resources.serviceui;
-
 public class d11_Q600 {
 
     public int findIntegers(int n) {
